@@ -1,20 +1,16 @@
 #Hola soy *Gallego Angel*👋
-Estudiante de la UPE, de la carrera Tec.desarrollo de Software.
+Autodidacta y Estudiante de la UPE, de la carrera Tec.desarrollo de Software.
 
 ##Tegnologias
-C/C++
-Git & GitHub
+**Backend**:
+- Python
+- C/C++
+- Java
+  
+**Frontend**:
+- HTML
+- CSS
 
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Otros**
+- Git & GitHub
+- MySQL
