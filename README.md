@@ -1,9 +1,13 @@
-## Hi there 👋
+#Hola soy *Gallego Angel*👋
+Estudiante de la UPE, de la carrera Tec.desarrollo de Software.
 
-<!--
-**Angel-Gallego-UPE/Angel-Gallego-UPE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Tegnologias
+C/C++
+Git & GitHub
 
-Here are some ideas to get you started:
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
