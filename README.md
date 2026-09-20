@@ -1,6 +1,6 @@
-#Hola soy *Gallego Angel*👋
+#Hola soy **Gallego Angel**👋
 
-Autodidacta y Estudiante de la UPE, de la carrera Tec.desarrollo de Software.
+Estudiante de la UPE, de la carrera Tec.desarrollo de Software.
 
 ##Tegnologias
 **Backend**:
